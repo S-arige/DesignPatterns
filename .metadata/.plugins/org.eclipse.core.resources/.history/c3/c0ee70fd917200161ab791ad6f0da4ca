@@ -1,0 +1,5 @@
+package com.example.abstractfactory.core;
+
+public interface ICar {
+
+}

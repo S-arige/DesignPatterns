@@ -3,5 +3,7 @@
 
     <string name="app_name">Abstract Factory</string>
     <string name="hello_world">Hello world!</string>
+    <string name="suv_text">suv</string>
+    <string name="cuv_text">cuv</string>
 
 </resources>

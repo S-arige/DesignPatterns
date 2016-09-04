@@ -4,9 +4,17 @@
     android:layout_height="match_parent"
     tools:context="${relativePackage}.${activityClass}" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+    <Button 
+        android:id="@+id/btn_suv"
+        android:layout_height="160dp"
+        android:layout_width="60dp"
+        android:text="@string/suv_text"/>
+    
+    <Button 
+        android:id="@+id/btn_cuv"
+        android:layout_height="160dp"
+        android:layout_width="60dp"
+        android:text="@string/cuv_text"
+        android:layout_below="@+id/btn_suv"/>
 
 </RelativeLayout>

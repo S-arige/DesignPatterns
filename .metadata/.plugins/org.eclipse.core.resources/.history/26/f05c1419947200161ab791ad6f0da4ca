@@ -1,0 +1,10 @@
+package com.example.abstractfactory.core;
+
+/**
+ * 
+ * @author songjunjun
+ *
+ */
+public interface ICar {
+
+}
