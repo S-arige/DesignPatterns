@@ -15,6 +15,10 @@ public class MainActivity extends Activity implements OnClickListener{
 
 	private Button btn_simple_mail;
 	private Button btn_simple_sms;
+	
+	
+	
+	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
