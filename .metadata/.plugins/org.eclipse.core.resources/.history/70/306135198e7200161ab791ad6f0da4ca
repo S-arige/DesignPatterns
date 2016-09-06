@@ -1,5 +1,0 @@
-package com.example.factorymethod.core;
-
-public class MulSendMessageFactory {
-
-}
